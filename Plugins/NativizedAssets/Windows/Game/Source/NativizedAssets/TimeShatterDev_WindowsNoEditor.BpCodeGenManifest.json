@@ -1,0 +1,69 @@
+{
+	"manifestChunkId": -1,
+	"pluginName": "NativizedAssets",
+	"outputDir": "E:/TimeShatterDevBuild/Intermediate/Plugins/NativizedAssets/Windows/Game",
+	"moduleDependencies": [
+		"Package'/Script/CoreUObject'",
+		"Package'/Script/Engine'",
+		"Package'/Script/MovieScene'",
+		"Package'/Script/MovieSceneTracks'",
+		"Package'/Script/SlateCore'",
+		"Package'/Script/UMG'",
+		"Package'/Script/InputCore'",
+		"Package'/Script/ClothingSystemRuntimeInterface'",
+		"Package'/Script/AIModule'",
+		"Package'/Script/GameplayTasks'",
+		"Package'/Script/Slate'"
+	],
+	"convertedAssets":
+	{
+		"/Game/DisplayWidgets/UMG_UI_Inventory/InterfaceController/InventoryStruct.InventoryStruct":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedStruct'",
+			"targetObjPath": "/Game/DisplayWidgets/UMG_UI_Inventory/InterfaceController/InventoryStruct.InventoryStruct",
+			"generatedHeaderPath": "E:/TimeShatterDevBuild/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/InventoryStruct__pf745123665.h",
+			"generatedCppPath": "E:/TimeShatterDevBuild/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/InventoryStruct__pf745123665.cpp"
+		},
+		"/Game/FBX/Character/ThirdPersonGameMode.ThirdPersonGameMode_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/FBX/Character/ThirdPersonGameMode.ThirdPersonGameMode_C",
+			"generatedHeaderPath": "E:/TimeShatterDevBuild/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/ThirdPersonGameMode__pf195711725.h",
+			"generatedCppPath": "E:/TimeShatterDevBuild/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/ThirdPersonGameMode__pf195711725.cpp"
+		},
+		"/Game/GameMenu/Menu_controller.Menu_controller_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/GameMenu/Menu_controller.Menu_controller_C",
+			"generatedHeaderPath": "E:/TimeShatterDevBuild/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Menu_controller__pf2302387670.h",
+			"generatedCppPath": "E:/TimeShatterDevBuild/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Menu_controller__pf2302387670.cpp"
+		},
+		"/Game/GameMenu/Settings.Settings_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/GameMenu/Settings.Settings_C",
+			"generatedHeaderPath": "E:/TimeShatterDevBuild/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Settings__pf2302387670.h",
+			"generatedCppPath": "E:/TimeShatterDevBuild/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Settings__pf2302387670.cpp"
+		}
+	},
+	"unconvertedDependencies":
+	{
+		"/Game/GameMenu/Savedata/MenuSaver":
+		{
+			"generatedWrapperPath": "E:/TimeShatterDevBuild/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/MenuSaver__pf1473906957.h"
+		},
+		"/Game/GameMenu/MainMenu":
+		{
+			"generatedWrapperPath": "E:/TimeShatterDevBuild/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/MainMenu__pf2302387670.h"
+		}
+	},
+	"nativizationOptions":
+	{
+		"platformName": "WindowsNoEditor",
+		"serverOnlyPlatform": false,
+		"clientOnlyPlatform": false,
+		"excludedModules": [],
+		"excludedAssets": [],
+		"excludedFolderPaths": []
+	}
+}

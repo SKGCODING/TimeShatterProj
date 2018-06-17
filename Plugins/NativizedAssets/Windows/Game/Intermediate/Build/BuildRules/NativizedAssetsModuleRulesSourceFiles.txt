@@ -1,0 +1,1 @@
+E:\TimeShatterDevBuild\Intermediate\Plugins\NativizedAssets\Windows\Game\Source\NativizedAssets\NativizedAssets.Build.cs
